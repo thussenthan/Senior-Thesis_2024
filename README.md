@@ -1,4 +1,4 @@
-# Senior Thesis (2024) written by Thussenthan Walter-Angelo
+# Princeton University Senior Thesis by Thussenthan Walter-Angelo (2024)
 Effects of Modulating Locus Coeruleus Noradrenergic Input to Cerebellar Interpositus Nucleus on Eyeblink Conditioning Performance
 
 ## Project Description
