@@ -2,7 +2,7 @@
 Effects of Modulating Locus Coeruleus Noradrenergic Input to Cerebellar Interpositus Nucleus on Eyeblink Conditioning Performance
 
 ## Project Description
-Briefly describe what this repository is for, what the project does, and what problems it aims to solve.
+Briefly describing what this repository is for, what the project does, and what problems it aims to solve.
 
 ## Structure
 This repository is organized into three main directories:
