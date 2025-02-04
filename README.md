@@ -1,4 +1,4 @@
-# Senior-Thesis_2024
+# Senior Thesis (2024) written by Thussenthan Walter-Angelo
 Effects of Modulating Locus Coeruleus Noradrenergic Input to Cerebellar Interpositus Nucleus on Eyeblink Conditioning Performance
 
 ## Project Description
@@ -36,7 +36,7 @@ This repository is organized into three main directories:
 
 ## Acknowledgments
 - Ben Deverett
-- Samuel S.-H Wang Lab
+- Dr. Samuel S.-H Wang and Lab
 - Department of Molecular Biology - Princeton University
 - Princeton Neuroscience Institute - Princeton University
 - Princeton University
