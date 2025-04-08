@@ -1,10 +1,20 @@
-# Princeton University Senior Thesis by Thussenthan Walter-Angelo (2024)
-Effects of Modulating Locus Coeruleus Noradrenergic Input to Cerebellar Interpositus Nucleus on Eyeblink Conditioning Performance
+# Princeton University Senior Thesis (2024)
+Title: **Effects of Modulating Locus Coeruleus Noradrenergic Input to Cerebellar Interpositus Nucleus on Eyeblink Conditioning Performance** 
+
+By Thussenthan Walter-Angelo ('24)
 
 ## Project Description
-Briefly describing what this repository is for, what the project does, and what problems it aims to solve.
+This repository contains the code developed for my senior thesis, “Effects of Modulating Locus Coeruleus Noradrenergic Input to Cerebellar Interpositus Nucleus on Eyeblink Conditioning Performance.” The project investigates how optogenetically mediated modulation of noradrenergic signaling from the locus coeruleus (LC) to the cerebellar interpositus nucleus (INT) affects associative learning, as measured by eyeblink conditioning (EBC).
 
-## Structure
+Key components include:
+
+- EBC Training and Optogenetic Stimulation: Code modules (lcopto.py and opto_ebc.py) are used to control and monitor the classical conditioning paradigm and the delivery of timed optogenetic stimuli.
+- Data Analysis Pipelines: Scripts such as batch_compile.py, animal_wise.py, and session_wise.py process behavioral data, extracting metrics like the conditioned response (CR) amplitude, timing, and rate of rise. These analyses assess the impact of different stimulation durations (one-second versus two-second protocols) on learning performance.
+- Research Insights: The project aims to elucidate the temporal dynamics of LC–INT interactions, contributing to our understanding of neuromodulation in learning and memory. Findings suggest that precise, time-dependent activation of LC axons can significantly alter the expression of learned behaviors.
+
+This codebase, along with detailed documentation and accompanying data, offers a resource for researchers interested in neurobiological mechanisms of learning, optogenetic interventions, and advanced behavioral analysis.
+
+### Structure
 This repository is organized into three main directories:
 
 - **Data Processing**: Contains all the scripts and files necessary for data processing. This folder is essential for preparing the data before any analysis or operations are performed. Here are the main scripts in this directory:
@@ -24,7 +34,7 @@ This repository is organized into three main directories:
   - `session_updated_sig.py`: Calculates all significance values on a session-wise basis.
   - `animal_updated_sig.py`: Calculates all significance values per animal.
 
-## Built With
+### Built With
 - Python 3.9.6 - Main programming language used.
 - NumPy, pandas - Used for data handling and numerical operations.
 - OpenCV - Used for image processing.
@@ -36,8 +46,11 @@ This repository is organized into three main directories:
 - If you require additional information on the analysis/data, please contact [Thussenthan Walter-Angelo](t.walterangelo@gmail.com).
 
 ## Acknowledgments
-- Ben Deverett
-- Dr. Samuel S.-H Wang and Lab
+- Dr. Ben Deverett
+- Dr. Junuk Lee
+- Dr. Gerard Joey Broussard
+- Dr. Samuel S.-H. Wang
+- All the lab members of the Wang Lab
 - Department of Molecular Biology - Princeton University
 - Princeton Neuroscience Institute - Princeton University
 - Princeton University
