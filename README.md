@@ -9,7 +9,7 @@ This repository is organized into three main directories:
 
 - **Data Processing**: Contains all the scripts and files necessary for data processing. This folder is essential for preparing the data before any analysis or operations are performed. Here are the main scripts in this directory:
   - `opto_ebc.py`: Processes and analyzes video data from EBC experiments, involving manual ROI selection and trace extraction to study eyeblink responses.
-  - `lcopto.py`: Handles optogenetic stimulation trial data, expanding analysis to include additional trial conditions and generating comparative visualizations.
+  - `lcopto.py`: Handles optogenetic stimulation trial data, expanding the analysis to include additional trial conditions and generating comparative visualizations.
   - `blue_line.py`: Script for initial data preparation, including setting directory paths, validating file existence, and data integrity checks.
   - `regen_both.py`: Facilitates detailed analysis by selecting specific datasets for intensive processing, including video frame extraction and intensity normalization.
 
@@ -19,7 +19,7 @@ This repository is organized into three main directories:
   - `batch_compile.py`: Aggregates data from eligible trials, compiling batch-level summaries and performing statistical comparisons between conditions.
   - `total_sessions_batched.py`: Analyzes data across different sessions systematically, focusing on session-by-session variability and the specific impacts of conditions.
 
-- **Significance Calculations**: This folder contains all scripts and files used for calculating statistical significance of the results. Here are the main scripts in this directory:
+- **Significance Calculations**: This folder contains all scripts and files used for calculating the statistical significance of the results. Here are the main scripts in this directory:
   - `sig.py`: Calculates significance values.
   - `session_updated_sig.py`: Calculates all significance values on a session-wise basis.
   - `animal_updated_sig.py`: Calculates all significance values per animal.
@@ -32,7 +32,8 @@ This repository is organized into three main directories:
 - Jupyter Notebook - Used for scripting and documenting the analysis process.
 
 ## Authors
-- **Thussenthan Walter-Angelo** - *Initial work* - [Thussenthan Walter-Angelo](https://github.com/thussenthanwalter-angelo)
+- **Thussenthan Walter-Angelo** - *Initial work*
+- If you require additional information on the analysis/data, please contact [Thussenthan Walter-Angelo](t.walterangelo@gmail.com).
 
 ## Acknowledgments
 - Ben Deverett
