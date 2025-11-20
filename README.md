@@ -12,7 +12,7 @@ Key components include:
 - Data Analysis Pipelines: Scripts such as batch_compile.py, animal_wise.py, and session_wise.py process behavioral data, extracting metrics like the conditioned response (CR) amplitude, timing, and rate of rise. These analyses assess the impact of different stimulation durations (one-second versus two-second protocols) on learning performance.
 - Research Insights: The project aims to elucidate the temporal dynamics of LC–INT interactions, contributing to our understanding of neuromodulation in learning and memory. Findings suggest that precise, time-dependent activation of LC axons can significantly alter the expression of learned behaviors.
 
-This codebase, along with detailed documentation and accompanying data, offers a resource for researchers interested in neurobiological mechanisms of learning, optogenetic interventions, and advanced behavioral analysis.
+This codebase, representing the initial work for the project, along with detailed documentation and accompanying data, offers a resource for researchers interested in neurobiological mechanisms of learning, optogenetic interventions, and advanced behavioral analysis.
 
 ### Structure
 This repository is organized into three main directories:
@@ -41,9 +41,11 @@ This repository is organized into three main directories:
 - Matplotlib - Used for generating visualizations.
 - Jupyter Notebook - Used for scripting and documenting the analysis process.
 
-## Authors
-- **Thussenthan Walter-Angelo** - *Initial work*
-- If you require additional information on the analysis/data, please contact [Thussenthan Walter-Angelo](t.walterangelo@gmail.com).
+## Author
+- **Thussenthan Walter-Angelo**
+
+## Data Access
+- For questions about the analysis, data, or any additional information, including requests for a copy of the full senior thesis, please contact [Thussenthan Walter-Angelo](mailto:t.walterangelo@gmail.com).
 
 ## Acknowledgments
 - Dr. Ben Deverett
